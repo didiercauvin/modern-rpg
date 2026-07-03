@@ -2,6 +2,7 @@
   <Folder Name="/docs/" />
   <Folder Name="/docs/architecture/">
     <File Path="docs/architecture/000-overview.md" />
+    <File Path="docs/architecture/005-engine.md" />
     <File Path="docs/architecture/010-game-model.md" />
   </Folder>
   <Folder Name="/docs/design/">
