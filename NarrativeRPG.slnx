@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/docs/" />
+  <Folder Name="/docs/architecture/">
+    <File Path="docs/architecture/000-overview.md" />
+    <File Path="docs/architecture/010-game-model.md" />
+  </Folder>
+  <Folder Name="/docs/design/">
+    <File Path="docs/design/001-philosophy.md" />
+  </Folder>
+  <Project Path="NarrativeRPG.Engine/NarrativeRPG.Engine.csproj" />
+</Solution>
